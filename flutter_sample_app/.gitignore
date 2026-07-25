@@ -1,0 +1,26 @@
+# Flutter sample app
+
+# Build artifacts
+build/
+
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# Android
+**/android/**/local.properties
+**/android/**/gradle-wrapper.jar
+**/android/**/gradle-wrapper.properties
+
+# iOS
+**/ios/**/Pods/
+**/ios/**/.symlinks/
+
+# Misc
+*.log
+.idea/
+.vscode/
+.DS_Store
